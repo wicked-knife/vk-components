@@ -1,32 +1,38 @@
-## 项目名称
-> 请介绍一下你的项目吧  
+# vk-components
 
+[![NPM version](https://img.shields.io/npm/v/vk-components.svg?style=flat)](https://npmjs.org/package/vk-components)
+[![NPM downloads](http://img.shields.io/npm/dm/vk-components.svg?style=flat)](https://npmjs.org/package/vk-components)
 
+## Usage
 
-## 运行条件
-> 列出运行该项目所必须的条件和相关依赖  
-* 条件一
-* 条件二
-* 条件三
+TODO
 
+## Options
 
+TODO
 
-## 运行说明
-> 说明如何运行和使用你的项目，建议给出具体的步骤说明
-* 操作一
-* 操作二
-* 操作三  
+## Development
 
+```bash
+# install dependencies
+$ npm install
 
+# develop library by docs demo
+$ npm start
 
-## 测试说明
-> 如果有测试相关内容需要说明，请填写在这里  
+# build library source code
+$ npm run build
 
+# build library source code in watch mode
+$ npm run build:watch
 
+# build docs
+$ npm run docs:build
 
-## 技术架构
-> 使用的技术框架或系统架构图等相关说明，请填写在这里  
+# check your project for potential problems
+$ npm run doctor
+```
 
+## LICENSE
 
-## 协作者
-> 高效的协作会激发无尽的创造力，将他们的名字记录在这里吧
+MIT
