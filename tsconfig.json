@@ -11,5 +11,6 @@
       "vk-components": ["src"],
       "vk-components/*": ["src/*", "*"]
     }
-  }
+  },
+  "exclude": ["**/*.test.ts", "**/*.test.tsx", "**/*.spec.ts", "**/*.spec.tsx"]
 }
