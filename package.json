@@ -52,6 +52,7 @@
     "@types/jest": "^27",
     "@types/testing-library__jest-dom": "^5.14.5",
     "@umijs/lint": "^4.0.0",
+    "@umijs/plugins": "^4.0.38",
     "cross-env": "^7.0.3",
     "cypress": "^12.1.0",
     "dumi": "^2.0.2",

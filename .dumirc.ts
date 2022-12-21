@@ -5,4 +5,5 @@ export default defineConfig({
   themeConfig: {
     name: 'vk-components',
   },
+  plugins: ['@umijs/plugins/dist/antd'],
 });
